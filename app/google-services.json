@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "124660221799",
+    "project_id": "wavedream-3d9a0",
+    "storage_bucket": "wavedream-3d9a0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124660221799:android:c40fce156d2d7a975851c2",
+        "android_client_info": {
+          "package_name": "com.example.step01"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzFT97cI3tBzmzTP2iGZwyH0hLV940aXw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
